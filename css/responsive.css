@@ -1,0 +1,217 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start	*/
+header{
+	padding: 20px 0 !important;
+}
+.menu ul li a{
+ 	font-size: 16px;
+    text-align: right;
+    padding: 4px 0px !important;
+}
+/*slider start*/
+.s-content {
+    margin-top: 30px;
+}
+.s-content h1 {
+    font-size: 24px;
+}
+.s-content h2 {
+    font-size: 18px;
+    margin: 14px 0;
+}
+.s-content p {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.c-ind {
+    bottom: -60px;
+}
+.c-ind li {
+    width: 12px;
+    height: 12px;
+}
+.slider {
+    padding-bottom: 75px;
+}
+/*features start*/
+
+.c-title {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.c-p {
+    font-size: 16px;
+}
+.single {
+    margin-bottom: 30px;
+}
+.feature {
+    padding-bottom: 40px;
+}
+.cus-btn{
+    width: 100%;
+    margin-top: 5px;
+}
+form {
+    padding-bottom: 60px;
+}
+.footer-area {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.c-h1 {
+    font-size: 28px;
+}
+.c-p {
+    font-size: 13px;
+}
+.social-icon li {
+    padding: 0 16px;
+}
+.footer-area {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.footer-widget .links li {
+    font-size: 11px;
+}
+.footer-widget .links li a {
+    font-size: 11px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start	*/
+header{
+	padding: 20px 0 !important;
+}
+.menu ul li a{
+ 	font-size: 18px;
+    text-align: right;
+    padding: 5px 0px !important;
+}
+/*slider start*/
+.s-content {
+    margin-top: 30px;
+}
+.s-content h1 {
+    font-size: 24px;
+}
+.s-content h2 {
+    font-size: 18px;
+    margin: 14px 0;
+}
+.s-content p {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+c-ind {
+    bottom: -92px;
+}
+.c-ind li {
+    width: 15px;
+    height: 15px;
+}
+/*feature start*/
+.c-title {
+    padding-top: 90px;
+    padding-bottom: 70px;
+}
+.c-h1 {
+    font-size: 28px;
+}
+.c-p {
+    font-size: 16px;
+}
+.single {
+    margin-bottom: 50px;
+}
+.single .s-img a {
+    font-size: 30px;
+}
+.s-text p {
+    font-size: 14px;
+}
+.feature {
+    padding-bottom: 60px;
+}
+/*submit area*/
+form {
+    padding-bottom: 60px;
+}
+.footer-area {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.footer-widget .links li {
+    font-size: 13px;
+}
+.footer-widget .links li a {
+    font-size: 13px;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start	*/
+header{
+	padding: 25px 0 !important;
+}
+.menu ul li a{
+ 	font-size: 20px;
+    text-align: right;
+    padding: 5px 0px !important;
+}
+.s-icon li {
+    font-size: 30px;
+    margin-right: 22px !important;
+}
+/*feature start*/
+.c-title {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.single {
+    margin-bottom: 60px;
+}
+.s-text h2 {
+    font-size: 17px;
+}
+.single .s-img a {
+    font-size: 30px;
+}
+.s-text p {
+    font-size: 15px;
+}
+.feature {
+    padding-bottom: 40px;
+}
+/*submit area*/
+form {
+    padding-bottom: 65px;
+}
+.footer-area {
+    padding-top: 85px;
+}
+.footer-widget .links li {
+    font-size: 13px;
+}
+.footer-widget .links li a {
+    font-size: 13px;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+}

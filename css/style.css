@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+  font-family: 'PT Sans', sans-serif;
+  color:#010101;
+}
+
+/*Header start*/
+header{
+  background-color: #fcdb00;
+  padding: 46px 0;
+}
+.navbar {
+    padding: 0px; 
+}
+.menu ul li a{
+  font-weight: 700;
+  font-size: 22px;
+  padding: 0 45px !important;
+ color:#010101 !important;
+}
+.menu ul li:last-child a{
+  padding-right: 0px !important;
+}
+.menu ul li a:hove{}
+
+/*slider start*/
+.slider{
+	 background-color: #fcdb00;
+	 padding-bottom: 100px;
+}
+.s-content{
+	margin-top: 75px;
+}
+.s-content h1{
+	font-weight: 700;
+	font-size: 32px;
+	color: #010101;
+}
+.s-content h2{
+	font-weight: 100;
+	font-size: 20px;
+	color: #313841;
+	max-width: 325px;
+	margin: 22px 0;
+}
+.s-content p{
+	font-weight: 100;
+	font-size: 16px;
+	color: #555555;
+	line-height: 20px;
+    max-width: 400px;
+    margin-bottom: 30px;
+}
+.s-icon{}
+.s-icon li{
+	font-size: 35px;
+	margin-right: 35px !important;
+}
+.s-icon li a{}
+.s-icon li a i{}
+
+
+.s-img{}
+.s-img img{
+	border-radius: 20px;
+}
+
+.c-ind{
+    bottom: -85px;
+}
+
+.c-ind li{
+	width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+/*featuer area start*/
+.feature{
+  padding-bottom: 80px;
+}
+.c-title{
+  padding-top: 120px;
+  padding-bottom: 90px;
+}
+.c-h1{
+  font-weight: 700;
+  font-size: 32px;
+  color: #010101;
+}
+.c-p{
+  font-weight: 100;
+  font-size: 20px;
+  color: #313841;}
+
+  .single{
+    margin-bottom: 85px;
+  }
+  .single .s-img{
+   
+  }
+  .single .s-img a{
+    color: black;
+    font-size: 40px;
+    line-height: 1.2;
+    text-decoration: none;
+  }
+  .s-text{}
+  .s-text h2{
+    font-size: 22px;
+    color: #010101;
+  }
+  .s-text p{
+    font-size: 16px;
+    color: #898989;
+  }
+  /*submit area start*/
+  .submit-area{
+	background-color: #010101;
+  }
+  .yellow{
+  	color: #fcdb00;
+  }
+  .ash{
+  	color: #898989;
+  }
+  .pb-45{
+  	padding-bottom: 45px;
+  }
+  form{
+  	padding-bottom: 80px;
+  }
+  .email-form{
+  	font-size: 16px;
+    color: #898989;
+    height: 50px;
+  }
+  .cus-btn{
+  	font-weight: 700;
+  	font-size: 16px;
+  	color: #010101;
+  	height: 50px;
+  }
+
+  .social-icon{}
+  .social-icon li{
+  	padding: 0 18px;
+    margin-right: 0px !important;
+  }
+
+  /*footer area start*/
+  .footer-area{
+  	background-color: #010101;
+  	padding-top: 110px;
+  	padding-bottom: 70px;
+  }
+  .footer-widget{}
+  .footer-widget .links li{
+    list-style: none;
+    font-size: 16px;
+    color: #ffffff;
+  }
+  .footer-widget .links li a{
+  	list-style: none;
+    font-size: 16px;
+    color: #ffffff;
+    cursor: pointer;
+    text-decoration: none;
+  }
